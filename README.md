@@ -4,4 +4,4 @@ Created with CodeSandbox. This web app helps person to find the meaning of emoji
 The tools used are:
 1. HTML
 2. CSS
-2 .ReactJS
+3. ReactJS
